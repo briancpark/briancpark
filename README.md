@@ -3,7 +3,7 @@ Hey there! My name is Brian, I study Computer Science at the University of Calif
 
 ## Links
 <p align="center">
-<img alt="Gmail" href="mailto:briancpark@berkeley.edu" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><img href="https://www.linkedin.com/in/brianparkberkeley/" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/><img alt="Medium" href="https://medium.com/@briancpark" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/><img alt="Kaggle" href="https://www.kaggle.com/briancpark" src="https://img.shields.io/badge/Kaggle-1DB6FF?style=for-the-badge&logo=kaggle&logoColor=white">
+<a href="mailto:briancpark@berkeley.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/brianparkberkeley/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://medium.com/@briancpark"><img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a><a href="https://www.kaggle.com/briancpark"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-1DB6FF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </p>
 
 ## Skills
