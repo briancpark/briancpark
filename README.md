@@ -1,5 +1,5 @@
 # @briancpark
-Hey there! My name is Brian, I study Computer Science at the University of California, Berkeley.
+Hey there! My name is Brian, I studied Computer Science at the University of California, Berkeley. Currently, I am a Software Engineering Intern at Apple in Core OS, Vector and Numerics Group. This upcoming fall, I'll be a Computer Science Master's Student at College of Engineering, North Carolina State University.
 
 ## Links
 <p align="center">
