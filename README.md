@@ -1,6 +1,8 @@
 # @briancpark
 Hey there! My name is Brian, I studied Computer Science at the University of California, Berkeley. Currently, I am a Software Engineering Intern at Apple in Core OS, Vector and Numerics Group. This upcoming fall, I'll be a Computer Science Master's Student at College of Engineering, North Carolina State University.
 
+During my time at UC Berkeley, I have been part of [RISELab](https://rise.cs.berkeley.edu/)/[SKYLab](https://sky.cs.berkeley.edu/), where I worked on [NumS](https://github.com/nums-project/nums).
+
 ## Links
 <p align="center">
 <a href="mailto:briancpark@berkeley.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/brianparkberkeley/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="https://medium.com/@briancpark"><img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a><a href="https://www.kaggle.com/briancpark"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-1DB6FF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
