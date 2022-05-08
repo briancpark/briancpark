@@ -16,11 +16,8 @@ During my time at UC Berkeley, I have been part of [RISELab](https://rise.cs.ber
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=briancpark&theme=chartreuse-dark">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briancpark&theme=chartreuse-dark">
+  <img src="https://raw.githubusercontent.com/briancpark/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <img src="https://raw.githubusercontent.com/briancpark/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 </p>
 
 <p align="center">
