@@ -1,9 +1,9 @@
 # @briancpark
 Hey there! My name is Brian, I am a Computer Science Master's Student at College of Engineering, North Carolina State University. I studied Computer Science at the University of California, Berkeley. 
 
-At North Carolina State University, I'm part of the [Systems Lab](https://systems.csc.ncsu.edu).
+I am currently a Software Engineering Intern at Apple!
 
-Previously, I interned as a Software Engineer at Apple.
+At North Carolina State University, I'm part of the [PICTure Research Group](https://research.csc.ncsu.edu/picture/)/[Systems Lab](https://systems.csc.ncsu.edu).
 
 During my time at UC Berkeley, I have been part of [RISELab](https://rise.cs.berkeley.edu/)/[Sky Computing](https://sky.cs.berkeley.edu/).
 
