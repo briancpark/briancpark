@@ -2,6 +2,8 @@
 
 Hey there! My name is Brian, I am a SWE/MLE at Apple.
 
+You won't find much here anymore. My swarm of agents are usually the ones producing Claude Coded activity for personal and homelab use cases.
+
 <h2 align="center">Stats</h2>
 
 <p align="center">
